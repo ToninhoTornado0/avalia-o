@@ -1,0 +1,48 @@
+img{
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    border-radius: 40px;
+    border:brown 6px solid;
+    margin-top: 10px;
+}
+
+
+li {
+    list-style:none;
+}
+header {
+    background-color: brown;
+    color: aliceblue;
+    padding: 5px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.direita {
+    object-fit: cover;
+    border-radius: 40px;
+    width: 30vw;
+    height: 30vw;
+
+}
+
+.sim {
+   
+    display: flex;
+    gap: 40px;
+    font-size: 23px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.espaço {
+    gap: 20px;
+}
+
+li{
+    margin-top: 40px;
+}
